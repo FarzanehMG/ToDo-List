@@ -1,0 +1,22 @@
+{
+    "name": "mohammadgholian/todo",
+    "description": "task manager",
+    "type": "project",
+    "require-dev": {
+        "hekmatinasser/verta": "^1.12"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammadgholian\\Todo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "farzaneh golian",
+            "email": "farzaneh.golian2001@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
